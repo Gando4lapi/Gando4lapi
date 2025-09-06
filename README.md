@@ -17,7 +17,6 @@
 
 ### 🔝 Top Contributed Repo
 ![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/teuchezh/teuchezh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![](https://github-contributor-stats.vercel.app/api?username=Gando4lapi&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Gando4lapi&icon=5&color=4)](https://visitcount.itsvg.in)
