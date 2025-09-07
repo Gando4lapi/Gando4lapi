@@ -1,6 +1,7 @@
 # 💫 About Me:
 
-![гитшапка](https://github.com/user-attachments/assets/27d5b32d-99a5-4d10-abfd-4c35c808c915)
+![гитфон3](https://github.com/user-attachments/assets/e956d143-ab81-4e43-9468-6f73ffd74f00)
+
 
 [Ru] В настоящий момент я студент МГТУ им Н.Э.Баумана по специальности защита информации<br>[En] I am currently a Bauman Moscow State Technical University student specializing in information security<br><br>[Ru] Я развиваюсь в сфере Data Science и параллельно занимаюсь DevOps и InfoSec<br>[En] I am developing in the field of Data Science and simultaneously engaged in DevOps and InfoSec<br><br>
 
